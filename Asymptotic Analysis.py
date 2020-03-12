@@ -1,3 +1,8 @@
+#Mitzi V. Dorato
+#BSCS-II
+#2018-5849
+
+
 import matplotlib.pyplot as plt
 import math
 
